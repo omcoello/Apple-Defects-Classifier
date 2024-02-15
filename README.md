@@ -35,3 +35,7 @@ Ensure you have your apple images in a suitable directory structure within the d
 Run the preprocessing script to prepare the training, validation, and test data.
 Train the model using the provided training script.
 Once trained, you can use the classifier to predict defects in new apple images using the prediction script.
+
+# Models
+
+[View models](https://espolec-my.sharepoint.com/:f:/g/personal/omcoello_espol_edu_ec/EgseUQqxOzBOliO_ySzZZ-EBpUdKWs6TDicWPVONfvMEMg?e=3hCJEq) trained by epochs with h5 format and also with keras format. They are classified by spectrum and model used.
